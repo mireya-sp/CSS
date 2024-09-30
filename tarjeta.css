@@ -1,0 +1,12 @@
+li{
+            text-align: left;
+            color: #191716;
+        }
+        div{
+            margin: 100px;
+            padding: 50px;
+            border: 10px solid #8CBED6;
+            background-color:#F2D7EE; 
+            width: 500px; 
+            height: 150px;           
+        }
