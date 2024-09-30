@@ -1,12 +1,25 @@
 li{
             text-align: left;
             color: #191716;
-        }
-        div{
+}
+div{
             margin: 100px;
             padding: 50px;
             border: 10px solid #8CBED6;
             background-color:#F2D7EE; 
             width: 500px; 
-            height: 150px;           
-        }
+            height: 150px;   
+            color: #191716;
+}
+h5{
+            text-align: right; 
+            font-size: 15px;
+            color: #191716;
+}
+h2{
+            font-size: 25px;
+            color: #191716;
+}
+h3{
+            color: #191716;
+}
