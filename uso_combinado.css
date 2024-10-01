@@ -1,0 +1,21 @@
+body{
+    text-align: center;
+}
+.titulo{
+    font-size: 40px;
+    font-family:Georgia, Times, 'Times New Roman', serif;
+    color: fuchsia;
+    font-weight: bolder;
+}
+#destacado{
+    background-color: black;
+    color: white;
+}
+.contenido{
+    color:dodgerblue;
+    margin: 20px;
+    font-weight: bold;
+}
+#especial{
+    border: 50px;
+}
